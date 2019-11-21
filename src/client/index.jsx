@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import Tweets from 'tweets';
 import User from 'user';
 import Content from 'content';
+// import Picture from 'picture';
 
 class App extends React.Component {
   render() {
